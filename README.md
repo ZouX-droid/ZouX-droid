@@ -35,8 +35,7 @@ Saya adalah seorang penjelajah di dunia teknologi yang sedang membangun fondasi 
 
 ### 🛠️ Proyek "Amatir" Saya:
 *(Segera hadir! Setiap repo di bawah adalah langkah saya menuju profesional)*
-1. 📂 **[Proyek-1]** - Deskripsi singkat proyek pertamamu.
-2. 📂 **[Proyek-2]** - Deskripsi singkat proyek keduamu.
+
 
 ---
 <p align="center">
