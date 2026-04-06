@@ -7,10 +7,10 @@
 ### 👨‍💻 Tentang Saya
 Saat ini saya sedang menempuh perjalanan akademik sebagai mahasiswa **Teknik Informatika** di **Universitas Krisnadwipayana**. Di luar jam kuliah, saya menghabiskan waktu untuk bereksplorasi dengan baris kode dan mencoba memahami bagaimana dunia digital bekerja.
 
-- 🏫 **Fokus Akademik:** Sedang mendalami Algoritma, Basis Data, dan Jaringan
-- 💡 **Minat:** Tertarik pada pengembangan Web / Mobile / IoT].
-- 🌱 **Belajar Mandiri:** Saat ini sedang bertarung dengan JavaScript atau Java.
-- ☕ **Bahan Bakar:** Berjalan dengan bantuan kopi dan musik *R&B*.
+- **Fokus Akademik:** Sedang mendalami Algoritma, Basis Data, dan Jaringan
+- **Minat:** Tertarik pada pengembangan Web / Mobile / IoT].
+- **Belajar Mandiri:** Saat ini sedang bertarung dengan JavaScript atau Java.
+- **Bahan Bakar:** Berjalan dengan bantuan kopi dan musik *R&B*.
 
 ---
 
